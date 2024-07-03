@@ -20,6 +20,6 @@ while count < z:
 	print("\nNow",z - count,"chances are left to guess the correct answer!\n")
 
 	
-if count >= z:
+if count > z:
 	print("\nThe number is %d" % x)
 	print("Well Tried!  Better Luck Next time!\n")
