@@ -1,0 +1,1 @@
+hello this is a demo text file and it shows characters in ascending order.
